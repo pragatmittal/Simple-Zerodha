@@ -8,6 +8,8 @@ Introductory Image: A central image showcasing the main product or service.
 Call-to-Action: A prominent "Sign Up Now" button encouraging users to join the platform.
 Headings: Clear and descriptive headings to convey the purpose of the platform.
 **Take a look of (Zerodha basic Structure.png) to see the structure of the website **
+
+
 Usage
 To use this HTML code, follow these steps:
 
